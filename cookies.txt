@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.marketplace.envato.com	TRUE	/	FALSE	1999999999	referring_user	cmsmasters
+.marketplace.envato.com	TRUE	/	FALSE	1999999999	clickthrough_id	740255993
+.themeforest.net	TRUE	/	FALSE	1999999999	referring_user	-1
+themeforest.net	TRUE	/	FALSE	1999999999	_fd_session	BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJWM0MjliZTY3MjU2ZDljZjFiZWRkNzc2MGJiMjQzZTM4BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUZKaXZ0UVl6WlhYL3BJQ1FIclpFK1B5QkkyZy95V3RRbVRZeUg1KzZza1E9BjsARg%3D%3D--42d4b02d98133a8a7f28da66b9daee70a9a4f924
+.yoga-fit.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+.yoga-fit.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	a4b673ddbe31a25c0c2c6c9872b3baec
+.yoga-fit.cmsmasters.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_73549fc3d1dd30704a96801102299be0	889de9d152d14796fab9fa4100c689f4%7C%7C1467051925%7C%7C1467048325%7C%7C8394fbf78d8e279b5a908c3e5a34fd34
+

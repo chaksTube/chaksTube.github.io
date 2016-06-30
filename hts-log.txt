@@ -1,0 +1,35 @@
+HTTrack3.48-21 launched on Sat, 25 Jun 2016 23:46:06 at http://themes.cmsmasters.net/?theme=yoga-fit 10
+(winhttrack http://themes.cmsmasters.net/?theme=yoga-fit -O "/Users/chaks/websites/yoga" -Y -%v -r 10 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:47:28	Warning: 	Unexpected socket error during pre-loop
+23:48:51	Warning: 	Unexpected socket error during pre-loop
+23:48:52	Error: 	"Receive Error" (-4) after 2 retries at link 10/robots.txt (from primary/primary)
+23:48:52	Warning: 	Retry after error -4 (Receive Error) at link 10/ (from primary/primary)
+23:48:56	Warning: 	Note: due to cmsmasters.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+23:50:15	Warning: 	Unexpected socket error during pre-loop
+23:50:35	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://1.s3.envato.com/files/93998022/preview.__large_preview.jpg (from themes.cmsmasters.net/?theme=yoga-fit)
+23:50:37	Warning: 	File not parsed, looks like binary: https://0.s3.envato.com/files/25836102/01_screen.__large_preview.jpg
+23:50:37	Warning: 	File not parsed, looks like binary: https://0.s3.envato.com/files/25113953/Screens/01-screen.__large_preview.jpg
+23:50:42	Warning: 	File not parsed, looks like binary: 0.s3.envato.com/files/21562082/01-screen.__large_preview.jpg
+23:50:43	Warning: 	Note: due to yoga-fit.cmsmasters.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+23:54:33	Warning: 	Moved Temporarily for marketplace.envato.com/?ref=cmsmasters&add_to_network=true&continue=http%3A%2F%2Fthemeforest.net%2Fitem%2Fyoga-fit-sports-fitness-gym-wordpress-theme%2F12828455%3Fref%3Dcmsmasters
+23:54:33	Warning: 	File has moved from marketplace.envato.com/?ref=cmsmasters&add_to_network=true&continue=http%3A%2F%2Fthemeforest.net%2Fitem%2Fyoga-fit-sports-fitness-gym-wordpress-theme%2F12828455%3Fref%3Dcmsmasters to http://themeforest.net/item/yoga-fit-sports-fitness-gym-wordpress-theme/12828455?ref=cmsmasters&ref=cmsmasters&clickthrough_id=740255993&redirect_back=true
+23:54:38	Warning: 	Retry after error -4 (Receive Error) at link 10/ (from primary/primary)
+23:54:39	Error: 	"Method Not Allowed" (405) at link cmsmasters.net/xmlrpc.php (from cmsmasters.net/)
+23:55:07	Error: 	"Forbidden" (403) at link cmsmasters.net/wp-content/plugins/cmsms-content-composer/ (from cmsmasters.net/)
+23:55:19	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://1.s3.envato.com/files/93998022/preview.__large_preview.jpg (from themes.cmsmasters.net/?theme=yoga-fit)
+23:55:21	Error: 	"Method Not Allowed" (405) at link yoga-fit.cmsmasters.net/xmlrpc.php (from yoga-fit.cmsmasters.net/)
+23:55:42	Error: 	"Not Found" (404) at link yoga-fit.cmsmasters.net/events/photo/ (from yoga-fit.cmsmasters.net/)
+23:55:42	Error: 	"Not Found" (404) at link yoga-fit.cmsmasters.net/events/map/ (from yoga-fit.cmsmasters.net/)
+23:55:42	Error: 	"Forbidden" (403) at link yoga-fit.cmsmasters.net/wp-content/plugins/cmsms-content-composer/ (from yoga-fit.cmsmasters.net/)
+23:56:58	Warning: 	Unexpected socket error during pre-loop
+23:56:58	Error: 	"Receive Error" (-4) after 2 retries at link 10/ (from primary/primary)
+23:56:58	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://1.s3.envato.com/files/93998022/preview.__large_preview.jpg (from themes.cmsmasters.net/?theme=yoga-fit)
+
+HTTrack Website Copier/3.48-21 mirror complete in 10 minutes 52 seconds : 325 links scanned, 306 files written (21884099 bytes overall) [12271352 bytes received at 18821 bytes/sec], 11872884 bytes transferred using HTTP compression in 210 files, ratio 16%, 3.0 requests per connection
+(9 errors, 15 warnings, 0 messages)
